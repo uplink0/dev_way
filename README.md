@@ -15,7 +15,7 @@
   - [x] 04. Маршрутизация, NAT, Iptables/Nftables и сетевые экраны
   - [x] 05. Reverse Proxy и балансировка (Nginx: апстримы, заголовки, SSL/TLS)
 - [ ] **Модуль 3. Контейнеризация и Docker**
-  - [ ] 01. Что такое контейнер под капотом: Linux Namespaces и Cgroups своими руками
+  - [x] 01. Что такое контейнер под капотом: Linux Namespaces и Cgroups своими руками
   - [ ] 02. Оптимизация Dockerfile: слои, кэширование и Multi-stage сборка
   - [ ] 03. Безопасность контейнеров: non-root, read-only rootfs и сканирование Trivy
   - [ ] 04. Сети Docker: Bridge, Host, Overlay и DNS внутри контейнеров
