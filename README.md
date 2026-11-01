@@ -17,7 +17,7 @@
 - [ ] **Модуль 3. Контейнеризация и Docker**
   - [x] 01. Что такое контейнер под капотом: Linux Namespaces и Cgroups своими руками
   - [x] 02. Оптимизация Dockerfile: слои, кэширование и Multi-stage сборка
-  - [ ] 03. Безопасность контейнеров: non-root, read-only rootfs и сканирование Trivy
+  - [x] 03. Безопасность контейнеров: non-root, read-only rootfs и сканирование Trivy
   - [ ] 04. Сети Docker: Bridge, Host, Overlay и DNS внутри контейнеров
 - [ ] **Модуль 4. Оркестрация Kubernetes**
   - [ ] 01. Архитектура Control Plane и Worker Node
