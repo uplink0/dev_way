@@ -2,18 +2,18 @@
 Личная база инженерных знаний, конспекты, скрипты автоматизации и разобранные боевые сценарии траблшутинга Linux, сетей и Kubernetes.
 ---
 ## 🗺️ Дорожная карта (Roadmap)
-- [ ] **Модуль 1. Фундамент Linux**
-  - [ ] 01. Процессы, сигналы (SIGTERM/SIGKILL) и Load Average vs CPU %
-  - [ ] 02. Оперативная память: Buffers, Cache, Swap и анатомия OOM-Killer
-  - [ ] 03. Дисковая подсистема: Inodes, разница `df` vs `du`, I/O Wait и `iostat`
-  - [ ] 04. Systemd: жизненный цикл служб, journald и создание custom unit-ов
-  - [ ] 05. Bash-автоматизация: строгий режим `set -euo pipefail`, пайплайны и trap
-- [ ] **Модуль 2. Компьютерные сети для инженера**
-  - [ ] 01. Сетевой стек: от модели OSI/TCP к сокетам (`ss`, `lsof`)
-  - [ ] 02. DNS от А до Я: цепочка резолвинга, `/etc/resolv.conf`, `dig` и `nslookup`
-  - [ ] 03. Пакетная диагностика: `curl`, `tcpdump`, MTU/MSS и анализ задержек
-  - [ ] 04. Маршрутизация, NAT, Iptables/Nftables и сетевые экраны
-  - [ ] 05. Reverse Proxy и балансировка (Nginx: апстримы, заголовки, SSL/TLS)
+- [x] **Модуль 1. Фундамент Linux**
+  - [x] 01. Процессы, сигналы (SIGTERM/SIGKILL) и Load Average vs CPU %
+  - [x] 02. Оперативная память: Buffers, Cache, Swap и анатомия OOM-Killer
+  - [x] 03. Дисковая подсистема: Inodes, разница `df` vs `du`, I/O Wait и `iostat`
+  - [x] 04. Systemd: жизненный цикл служб, journald и создание custom unit-ов
+  - [x] 05. Bash-автоматизация: строгий режим `set -euo pipefail`, пайплайны и trap
+- [x] **Модуль 2. Компьютерные сети для инженера**
+  - [x] 01. Сетевой стек: от модели OSI/TCP к сокетам (`ss`, `lsof`)
+  - [x] 02. DNS от А до Я: цепочка резолвинга, `/etc/resolv.conf`, `dig` и `nslookup`
+  - [x] 03. Пакетная диагностика: `curl`, `tcpdump`, MTU/MSS и анализ задержек
+  - [x] 04. Маршрутизация, NAT, Iptables/Nftables и сетевые экраны
+  - [x] 05. Reverse Proxy и балансировка (Nginx: апстримы, заголовки, SSL/TLS)
 - [ ] **Модуль 3. Контейнеризация и Docker**
   - [ ] 01. Что такое контейнер под капотом: Linux Namespaces и Cgroups своими руками
   - [ ] 02. Оптимизация Dockerfile: слои, кэширование и Multi-stage сборка
