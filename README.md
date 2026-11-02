@@ -20,7 +20,7 @@
   - [x] 03. Безопасность контейнеров: non-root, read-only rootfs и сканирование Trivy
   - [x] 04. Сети Docker: Bridge, Host, Overlay и DNS внутри контейнеров
 - [ ] **Модуль 4. Оркестрация Kubernetes**
-  - [ ] 01. Архитектура Control Plane и Worker Node
+  - [x] 01. Архитектура Control Plane и Worker Node
   - [ ] 02. Stateful vs Stateless: почему БД сложнее веба
   - [ ] 03. Специфика хранилищ: StorageClass, PV, PVC и CSI
   - [ ] 04. Пробы живучести: Startup, Readiness, Liveness и отвязка Endpoints
