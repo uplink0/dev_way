@@ -14,11 +14,11 @@
   - [x] 03. Пакетная диагностика: `curl`, `tcpdump`, MTU/MSS и анализ задержек
   - [x] 04. Маршрутизация, NAT, Iptables/Nftables и сетевые экраны
   - [x] 05. Reverse Proxy и балансировка (Nginx: апстримы, заголовки, SSL/TLS)
-- [ ] **Модуль 3. Контейнеризация и Docker**
+- [x] **Модуль 3. Контейнеризация и Docker**
   - [x] 01. Что такое контейнер под капотом: Linux Namespaces и Cgroups своими руками
   - [x] 02. Оптимизация Dockerfile: слои, кэширование и Multi-stage сборка
   - [x] 03. Безопасность контейнеров: non-root, read-only rootfs и сканирование Trivy
-  - [ ] 04. Сети Docker: Bridge, Host, Overlay и DNS внутри контейнеров
+  - [x] 04. Сети Docker: Bridge, Host, Overlay и DNS внутри контейнеров
 - [ ] **Модуль 4. Оркестрация Kubernetes**
   - [ ] 01. Архитектура Control Plane и Worker Node
   - [ ] 02. Stateful vs Stateless: почему БД сложнее веба
